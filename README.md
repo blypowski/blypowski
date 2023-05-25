@@ -1,4 +1,7 @@
-My name is Jakub Marczyk, I am a Computer Science student at UJ (and a graduate of Architecture at PK).  
-I'm currently looking for an internship as a Java or C++ Software Developer.  
-I'm strongly motivated to learn Spring Boot and Hibernate Java frameworks, or to learn JavaScript and C# programming languages from the scratch.  
+My name is Jakub Marczyk, I am a Computer Science student at Jagiellonian University and a graduate of Architecture at Cracow University of Technology.
+I have successfully completed university courses, obtaining experience in C/C++, Java (with Spring Boot/Hibernate) and Python languages.
+I'm currently looking for an internship in the fields of Software Development or Machine Learning/Data Science.  
+I'm open to learning new technologies, especially JavaScript with Angular as a front end.  
 My LinkedIn profile can be found at linkedin.com/in/jakubmarczyk
+
+In my free time I enjoy listening to classical music and swimming. I am passionate about Scandinavian design.
